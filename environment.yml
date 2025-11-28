@@ -7,3 +7,6 @@ dependencies:
 - matplotlib=3.5.2
 - requests=2.28.1
 - decorator=5.1.1
+- pip
+- pip:
+  - tabpfn
