@@ -209,3 +209,6 @@ __marimo__/
 
 #datasets
 aml-2025-benchmarking-tabular-ml-datasets
+
+#loveapple
+.DS_Store
