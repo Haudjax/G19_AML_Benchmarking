@@ -4,25 +4,25 @@ A benchmarking project for **AML 2025: Unified Tabular Learning** Kaggle Competi
 
 ---
 
-## 📦 Repository Setup
+## Repository Setup
 
 Follow the steps below to clone the repository, add the required datasets, and set up the environment.
 
-## 🔹 1. Clone the Repository
+## 1. Clone the Repository
 
 ```bash
 git clone https://github.com/Haudjax/G19_AML_Benchmarking.git
 cd G19_AML_Benchmarking
 ```
 
-## 🔹 2. Add Required Dataset Folder
+## 2. Add Required Dataset Folder
 
 Make sure the following folder exists **inside the repository root**:
 
 ```text
 aml-2025-benchmarking-tabular-ml-datasets/
 ```
-### 📁 Project Structure (Overview)
+### Project Structure (Overview)
 
 ```text
 G19_AML_Benchmarking/
@@ -32,9 +32,9 @@ G19_AML_Benchmarking/
 └── ...
 ```
 
-> ⚠️ **Important:** The code will not run correctly unless this folder is present and correctly named.
+> **Important:** The code will not run correctly unless this folder is present and correctly named.
 
-## 🔹 3. Create the Conda Environment
+## 3. Create the Conda Environment
 
 Create the environment using the provided `environment.yml` file:
 
@@ -42,19 +42,20 @@ Create the environment using the provided `environment.yml` file:
 conda env create -f environment.yml
 ```
 
-## 🔹 4. Activate the Environment
+## 4. Activate the Environment
 
 ```bash
 conda activate tblr_bnch
 ```
 
-## ✅ You're Ready to Go
+## You're Ready to Go
 
 Once the environment is activated and the dataset folder is in place, you can start running the notebooks.
 
 ---
 
-## 🛠 Troubleshooting
+## Troubleshooting
 
 * Ensure you are using **Conda** (not `pip`) to create the environment
 * Double-check the dataset folder name and location
+
