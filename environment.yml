@@ -11,6 +11,8 @@ dependencies:
 - ipykernel
 - ipywidgets
 - lightgbm
+- catboost
+- xgboost
 - pip
 - pip:
   - tabpfn
